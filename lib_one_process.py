@@ -72,7 +72,7 @@ if __name__ == '__main__':
         max_concurrency = 4
 
 
-        images_filepath = '/home/vm2/Desktop/ODM/grpc_stages/node1'  #file path of current node images
+        images_filepath = '/home/vm3/Desktop/ODM/new_grpc_stages/node1'  #file path of current node images
         file_path = images_filepath + '/'
         opensfm_config = opensfm_interface.setup_opensfm_config(file_path)
         active_number_of_nodes = 2

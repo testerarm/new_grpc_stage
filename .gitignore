@@ -22,3 +22,5 @@ upload/*
 shark2/*
 shark2
 *.JPG
+*.pcap
+
